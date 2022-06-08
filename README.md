@@ -1,3 +1,3 @@
 # Certifictions
 
-![alt text](Diploma_rz?raw=true "Optional Title")
+![alt text](Diploma_rz.png?raw=true "Optional Title")
